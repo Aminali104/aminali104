@@ -37,12 +37,11 @@ Apart from coding, I also maintain a blog - you can find my articles on [Medium]
 ![](https://img.shields.io/badge/Framework-Flask-green)
 
 ## Certification
-<a href="https://www.youracclaim.com/badges/c696f36f-50ea-4abf-8a91-cc045ae3da94?source=linked_in_profile">AWS</a>
+<h2><a href="https://www.youracclaim.com/badges/c696f36f-50ea-4abf-8a91-cc045ae3da94?source=linked_in_profile">AWS</a></h2>
 <h2><a href="https://drive.google.com/file/d/16BXfOBjcmtj58WkWOoF98c87rQwRgCzW/view">Azure Active Directory: Basics</a></h2>
-<!-- [Azure Active Directory: Basics](https://drive.google.com/file/d/16BXfOBjcmtj58WkWOoF98c87rQwRgCzW/view)
-[AirFlow]
-[Machine Learning]()
-[Core Java]() -->
+<h2>AirFlow</h2>
+<h2>Machine Learning</h2>
+<h2>Core Java</h2>
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/aminali104/aminali104">
