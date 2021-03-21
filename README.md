@@ -38,7 +38,7 @@ Apart from coding, I also maintain a blog - you can find my articles on [Medium]
 
 ## Certification
 <a href="https://www.youracclaim.com/badges/c696f36f-50ea-4abf-8a91-cc045ae3da94?source=linked_in_profile">AWS</a>
-<a href="https://drive.google.com/file/d/16BXfOBjcmtj58WkWOoF98c87rQwRgCzW/view">Azure Active Directory: Basics</a>
+<h2><a href="https://drive.google.com/file/d/16BXfOBjcmtj58WkWOoF98c87rQwRgCzW/view">Azure Active Directory: Basics</a></h2>
 <!-- [Azure Active Directory: Basics](https://drive.google.com/file/d/16BXfOBjcmtj58WkWOoF98c87rQwRgCzW/view)
 [AirFlow]
 [Machine Learning]()
