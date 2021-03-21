@@ -37,7 +37,7 @@ Apart from coding, I also maintain a blog - you can find my articles on [Medium]
 ![](https://img.shields.io/badge/Framework-Flask-green)
 
 ## Certification
-<p><h3><a href="https://www.youracclaim.com/badges/c696f36f-50ea-4abf-8a91-cc045ae3da94?source=linked_in_profile">AWS</a></h3></p>
+<p><h3><a href="https://www.youracclaim.com/badges/c696f36f-50ea-4abf-8a91-cc045ae3da94?source=linked_in_profile">AWS Certified Developer – Associate</a></h3></p>
 <p><h3><a href="https://drive.google.com/file/d/16BXfOBjcmtj58WkWOoF98c87rQwRgCzW/view">Azure Active Directory: Basics</a></h3></p>
 <p><h3>AirFlow</h3></p>
 <p><h3>Machine Learning</h3></p>
