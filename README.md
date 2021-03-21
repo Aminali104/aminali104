@@ -12,19 +12,36 @@ Apart from coding, I also maintain a blog - you can find my articles on [Medium]
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-<!-- ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a) -->
+![](https://img.shields.io/badge/OS-Windows-orange)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-<!-- ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) -->
-<!-- ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a) -->
-<!-- ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a) -->
-<!-- ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a) -->
-<!-- ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a) -->
+![](https://img.shields.io/badge/Code-Java-orange)
+![](https://img.shields.io/badge/Cloud-AWS-green)
+![](https://img.shields.io/badge/Cloud-Azure-green)
+![](https://img.shields.io/badge/Version%20Tools-GitHub-yellow)
+![](https://img.shields.io/badge/Version%20Tools-GitLab-yellow)
+![](https://img.shields.io/badge/Version%20Tools-BitBucket-yellow)
+![](https://img.shields.io/badge/Technical%20Exposure-Serverless-orange)
+![](https://img.shields.io/badge/Technical%20Exposure-Machine%20Learning-orange)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-<!-- ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a) -->
-<!-- ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a) -->
+![](https://img.shields.io/badge/Database-MYSQL-green)
+![](https://img.shields.io/badge/Database-DynamoDB-green)
+![](https://img.shields.io/badge/Editor-VSCode-yellowgreen)
+![](https://img.shields.io/badge/Editor-PyCharm-green)
+![](https://img.shields.io/badge/Editor-Jupyter--green)
+![](https://img.shields.io/badge/Tools-Airflow-orange)
+![](https://img.shields.io/badge/Tools-Jira-orange)
+![](https://img.shields.io/badge/Tools-Jenkins-orange)
+![](https://img.shields.io/badge/Tools-SwaggerHub-orange)
+![](https://img.shields.io/badge/Framework-Django-green)
+![](https://img.shields.io/badge/Framework-Flask-green)
 
+## Certification
+[AWS](https://www.youracclaim.com/badges/c696f36f-50ea-4abf-8a91-cc045ae3da94?source=linked_in_profile)
+[Azure Active Directory: Basics](https://drive.google.com/file/d/16BXfOBjcmtj58WkWOoF98c87rQwRgCzW/view)
+[AirFlow]
+[Machine Learning]()
+[Core Java]()
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/aminali104/aminali104">
