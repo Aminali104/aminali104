@@ -4,11 +4,17 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Amin Ashraf Ali and i have persued B.Tech in Electronics & Communicaton Engineering (ECE). Currently i'm working as a Software Engineer. I am a young Entrepreneur who creates ideas and try to solve the real world problems. I am try to creating the largest AI ecosystem for younger generation. I am aggressively passionate about the core and recent Expo technologies and have consultant more than 3 startups to excel in the field of AWS Clouds and Machine Learning. Experienced backend developer with extensive knowledge on Machine Learning, Serverless technologies, Python and AWS Cloud. [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+I am a Serverless practitioner, content creator, and technopreneur, currently i'm working as an Engineer and I am currently pursuing a specialization in Data Science and Decision Science from IIT Delhi. I am a young Entrepreneur who creates ideas and try to solve the real world problems. I believe in the power of technology to transform and improve the lives of people around the world.
+
+I love to dig into challenging problems and solve them with modern technology. As a technologist, I excel at the execution of big ideas with given constraints. I have worked on several services/products that include Serverless, Cloud stack, Machine Learning other tech stacks.
+
+I have worked with a couple of startups full-time and helped few early-stage startups to build POC . I am aggressively passionate about the core and recent Expo technologies and have consultant more than 2 startups to excel in the field of AWS Clouds and Machine Learning.
+
+Reach out if you want to talk to me about emerging tech, solving real-world problems, or football.
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on [Medium](https://medium.com/@aminali104)
+Apart from coding, I also maintain a blog - you can find my articles on [Amin Ali's Blog](https://aminali.tech/)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -37,6 +43,7 @@ Apart from coding, I also maintain a blog - you can find my articles on [Medium]
 ![](https://img.shields.io/badge/Framework-Flask-green)
 
 ## Certification
+<p><h3><a href="https://www.credly.com/badges/ad454380-33f8-491d-a7e4-b4a5941e52fd/linked_in_profile">AWS Certified Solutions Architect – Associate</a></h3></p>
 <p><h3><a href="https://www.youracclaim.com/badges/c696f36f-50ea-4abf-8a91-cc045ae3da94?source=linked_in_profile">AWS Certified Developer – Associate</a></h3></p>
 <p><h3><a href="https://drive.google.com/file/d/16BXfOBjcmtj58WkWOoF98c87rQwRgCzW/view">Azure Active Directory: Basics</a></h3></p>
 <p><h3>AirFlow</h3></p>
