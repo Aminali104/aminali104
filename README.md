@@ -46,9 +46,9 @@ Apart from coding, I also maintain a blog - you can find my articles on [Amin Al
 <p><h3><a href="https://www.credly.com/badges/ad454380-33f8-491d-a7e4-b4a5941e52fd/linked_in_profile">AWS Certified Solutions Architect – Associate</a></h3></p>
 <p><h3><a href="https://www.youracclaim.com/badges/c696f36f-50ea-4abf-8a91-cc045ae3da94?source=linked_in_profile">AWS Certified Developer – Associate</a></h3></p>
 <p><h3><a href="https://drive.google.com/file/d/16BXfOBjcmtj58WkWOoF98c87rQwRgCzW/view">Azure Active Directory: Basics</a></h3></p>
-<p><h3>AirFlow</h3></p>
-<p><h3>Machine Learning</h3></p>
-<p><h3>Core Java</h3></p>
+<p><h3><a href="https://drive.google.com/file/d/17t5bqvV6cShRPQ29ChxMLjlMsJAwZ6ox/view?pli=1">Authoring Visual Analytics using Amazon QuickSight</a></h3></p>
+<p><h3><a href="https://drive.google.com/file/d/1rfOwOvPRIVRqGWOofPPagZ31GxdKeeYC/view">Running Containers on Amazon EKS</a></h3></p>
+<p><h3><a href="https://verify.skilljar.com/c/qro2ri7d6bp6">Sumo Logic Search Mastery Certified</a></h3></p>
 
 ## &#x1f4c8; GitHub Stats
 
